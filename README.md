@@ -7,6 +7,9 @@ Segregation), Event Sourcing and DDD (Domain Driven Design).
 AXON are best suitable for Microservices Architecture. 
 
 
+
+
+
 Event Sourcing...!
 
 Event Sourcing is a method to store the data as events in append log. Event which are stored represent a change or fact in the application, which states what happened in the application. 
